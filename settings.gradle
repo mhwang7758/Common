@@ -1,0 +1,3 @@
+include ':common-module'
+include ':app'
+rootProject.name = "Common"
